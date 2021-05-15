@@ -71,6 +71,14 @@ Icons and Arrows                                              | Language Support
 :------------------------------------------------------------:|:---------------------------------:
 <img src="/Images/iconsAndArrows.PNG" width="600" />          | <img src="/Images/languageSupport.PNG" width="600" />
 
+### 8. Error Messages and Help Menu 
+- Error messages are provided when an invalid input is given or the user misuses the system 
+- A help menu is available for further guidance 
+
+Error Messages                                                | Help Menu 
+:------------------------------------------------------------:|:---------------------------------:
+<img src="/Images/errorMessages.png" width="600" />           | <img src="/Images/helpMenu.png" width="600" />
+
 ## Notable Algorithms 
 
 ### 1. Dijkstra's and A* Algorithms 
@@ -83,6 +91,12 @@ An algorithm was implemented to solve a version of the Traveling Saleman Problem
 - **Local Pertubations:** Swaps and a custom reversal operator was used to improve the initial solution 
 - **Multistart:** Multiple start locations were considered and the best one was selected to explore the solution space more 
 
+The algorithm was tested for different inputs on multiple maps. These test cases were used to produe an average Quality of Result (QoR). Here is the average QoR for the iterative approach to the problem: 
+
+<img src="/Images/m4Improvement.png" width="600" />
+
 ## Final Presentation 
 - The presenation summarizes graphics and notable algorithms implemented
-- A pitch for potential future use of the software is also included  
+- A pitch for potential future use of the software is also included
+
+[Final Presentation](https://docs.google.com/presentation/d/1A3JcOO5rSgNNJpLCcTvRXj_Ap9-M5Y7gtsfOHhzvwX4/edit?usp=sharing)
