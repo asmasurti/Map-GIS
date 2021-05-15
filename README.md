@@ -9,13 +9,13 @@ This project was created with a team of two other members for ECE297 which is a 
 
 ## Design and Layout 
 
-#### 1. Welcome Menu 
+### 1. Welcome Menu 
 - A brief welcome menu is displayed when the map is initially loaded 
 - Directs the user towards the help menu in case the user is unfamiliar with the software 
 
 <img src="/Images/initialLoad.PNG" width="600" /> 
 
-#### 2. Main User Interface 
+### 2. Main User Interface 
 - **Top Left Corner:** Input boxes are used to get travel directions between a starting and ending intersection. Drop down menu below to load other maps 
 - **Top Right Corner:** Buttons to toggle other modes and features 
 - **Bottom Right Corner:** Buttons for zoom and pan. The scroll wheel can be used to zoom and pan as well. 
@@ -95,8 +95,7 @@ The algorithm was tested for different inputs on multiple maps. These test cases
 
 <img src="/Images/m4Improvement.png" width="600" />
 
-## Final Presentation 
+## [Final Presentation](https://docs.google.com/presentation/d/1A3JcOO5rSgNNJpLCcTvRXj_Ap9-M5Y7gtsfOHhzvwX4/edit?usp=sharing)
 - The presenation summarizes graphics and notable algorithms implemented
 - A pitch for potential future use of the software is also included
 
-[Final Presentation](https://docs.google.com/presentation/d/1A3JcOO5rSgNNJpLCcTvRXj_Ap9-M5Y7gtsfOHhzvwX4/edit?usp=sharing)
